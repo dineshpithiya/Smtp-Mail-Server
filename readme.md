@@ -1,3 +1,4 @@
+```
 <?php 
 require 'PHPMailer-master/PHPMailerAutoload.php';
 require 'PHPMailer-master/class.phpmailer.php';
@@ -48,3 +49,4 @@ function send_mail_admin($to,$emailSubject, $Message,$cc)
         }
     }
 ?>
+```
